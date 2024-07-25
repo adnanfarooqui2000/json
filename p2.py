@@ -1,0 +1,41 @@
+#List 
+list=[10,20,30,40,"Aslihaan"]
+print(list)
+list[0]=60
+print(list)
+#in build function
+mylist=[10,20,30,40,50]
+len(mylist)
+print(mylist)
+print(mylist.index)
+mylist.append(60)#Add at last
+mylist.clear()#clear all data
+print(mylist)
+x=[]
+print(type(x))
+mylist.copy
+x=[12,13,14,15,16]
+y=x
+print(y)
+x.remove(12)
+print(y)
+y=x.copy()
+print(y)
+print(id(x))
+print(id(y))
+y=mylist.copy()
+print(id(y))
+print(id(mylist))
+print(mylist.count(12))
+print(mylist.count(14))
+mylist.extend(mylist)
+mylist1=[12,13,14,15,16,17,18,19,20]
+print(mylist1)
+mylist=[70,80]
+mylist.count(10)
+mylist.pop()
+print(mylist)
+mylist.insert(4,700)
+print(mylist)
+print(mylist)
+mylist.sort(reverse=True)
