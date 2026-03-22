@@ -1,5 +1,5 @@
 class Student:
- ''' This class is develop by Neeraj for demo'''
+ ''' This class is develop by Adnan Farooqui for demo'''
 def __init__(self,name,roll,marks,city):
          self.name = name
          self.roll = roll
@@ -10,8 +10,8 @@ def display(self):
   print("my roll no is", self.roll)
   print("my marks is", self.marks)
   print("my city is", self.city)
-stu1 = Student("Neeraj",101,"90","Bhopal")
-stu2 = Student("Rahul",102,"92","Indore")
+stu1 = Student("Adnan",101,"90","Bhopal")
+stu2 = Student("Saad",102,"92","Ratlam")
 print(stu1.name)
 print(stu2.name)
 stu1.display()

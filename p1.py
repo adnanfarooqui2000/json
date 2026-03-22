@@ -1,8 +1,9 @@
 print("Good Morning Sunshine")
 x=10
 y=10
-print(id(x))
+print(id( x))
 print(id(y))
+
 #single dot . means current Directory/Folder
 #double dot .. means previous Directory/Folder
 #../../../.. = 3 Folder

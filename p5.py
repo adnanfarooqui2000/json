@@ -10,7 +10,7 @@ x.add(70)
 print(x)
 x.remove(70)
 print(x)
-x.update('Suvewa','Rabiya')
+x.update('Suvewa','Amna','Alveria')
 print(x)
 print(x)
 x={1,2,3,4,5,6}

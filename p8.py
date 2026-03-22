@@ -1,7 +1,6 @@
 #------------Syntax Iterative Statement for loop, while loop --------------------------
 # NOTE :in python (++,--) oprator doesn't Support in loop
 #------------------- while loop-------------------------------------------------------- 
-
 x=1    # INITALIZE
 while (x<=10):  # CONDITION
  print(x)
